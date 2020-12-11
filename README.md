@@ -3,7 +3,7 @@
 <h3 align="center"> <img align="center" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif"></h3>
  
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rohansadhukhan65github&label=Profile%20views&color=0e75b6&style=flat" alt="rohansadhukhan65github" /> </p>
+
 
 - 💬 Ask me about **Django , CSS**
 
