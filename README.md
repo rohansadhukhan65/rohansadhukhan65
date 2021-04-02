@@ -1,3 +1,4 @@
+<center>
 ### Hi there 👋, I'm Rohan
 #### A fullstack developer from India
 ![A fullstack developer from India](https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif)
@@ -25,3 +26,6 @@ Skills: Full Stack Web Developer | Bootstrap | CSS | JavaScript | Python | Djang
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=rohansadhukhan65)  
 
 ![Profile views](https://gpvc.arturio.dev/rohansadhukhan65)  
+
+
+</center>
